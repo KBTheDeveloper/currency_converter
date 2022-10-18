@@ -20,4 +20,4 @@
 
 React, Redux, AntD
 
-## PS: Пасхалка в файле App.tsx :)
+## P.S.: Пасхалка в файле App.tsx :)
